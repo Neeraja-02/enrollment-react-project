@@ -1,0 +1,38 @@
+*{
+    margin: 0; padding: 0;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: yellowgreen;
+    height: 75px;
+    width: 100%;
+}
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 30%;
+}
+.student{
+    color: rgb(43, 186, 226);
+}
+.addstudent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    color: rgb(206, 13, 206);
+}
+.student-form{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(222, 213, 213);
+}
+.student-form input{
+    width: 200px;
+    height: 25px;
+    margin-bottom:10px ;
+    border-radius: 10px;
+}

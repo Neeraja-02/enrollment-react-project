@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Anu",
+      "email": "Anu@gmail.com",
+      "department": "CSE",
+      "course": "MFS",
+      "id": "c618"
+    },
+    {
+      "name": "Neeraja",
+      "email": "neeraja@gmail.com",
+      "department": "ECE",
+      "course": "PFS",
+      "id": "5cd0"
+    },
+    {
+      "name": "Anshul",
+      "email": "anshul@gmail.com",
+      "department": "ML",
+      "course": "PFS",
+      "id": "0b35"
+    },
+    {
+      "id": "e57d",
+      "name": "Sandhya",
+      "email": "sandhya@gmail.com",
+      "department": "CSE",
+      "course": "MFS"
+    },
+    {
+      "name": "pooja",
+      "email": "pooja@gmail.com",
+      "department": "EEE",
+      "course": "JFS",
+      "id": "a41b"
+    },
+    {
+      "id": "1b88",
+      "name": "Namratha",
+      "email": "namratha@gmail.com",
+      "department": "ECE",
+      "course": "MFS"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
